@@ -12,6 +12,6 @@ Example
 
     $mail = new AQSMailer();
     $mail->subject('Test Email')
-    ->view('article', $data) /// load the view with acutal file path and pass array 
+    ->view('article', $data) /// Load the view with the actual file path and pass an array
     ->cc('info@aqssoft.com')
     ->send('jqsystech@gmail.com');

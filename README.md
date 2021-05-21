@@ -4,7 +4,7 @@ Usage
 1. clone this repo add in your project include "AQSMail.php" file then create an object and then use methods 
 2. Install PHPMailer via composer using this command : composer require phpmailer/phpmailer and then copy AQSMailer.php file in this directory 
 
-How to use AQSNailer 
+How to use AQSMailer 
 
 Example
 	

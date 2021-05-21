@@ -5,9 +5,9 @@
      * do not change variable name
      */
 
-	define("smtphost",	"mail.aqsschoolsoft.com");
-	define("username",	"support@aqsschoolsoft.com");
-	define("password",	"TH(_f-$7?=}~");
+	define("smtphost",	"");
+	define("username",	"");
+	define("password",	"");
 	define("senderName",	"AQ Shah"); 
 	define("from",	"support@aqsschoolsoft.com");
 	define("auth",	true);
